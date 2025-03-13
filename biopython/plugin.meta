@@ -1,0 +1,17 @@
+{
+    "id": "biopython",
+    "name": "Biopython",
+    "description": "Run Biopython in Horus",
+    "author": "Christian Dom\u00ednguez",
+    "version": "0.0.1",
+    "pluginFile": "plugin.py",
+    "minHorusVersion": "0.5.1",
+    "maxHorusVersion": null,
+    "platforms": [
+        "universal"
+    ],
+    "externalURL": null,
+    "dependencies": [
+        "biopython"
+    ]
+}
